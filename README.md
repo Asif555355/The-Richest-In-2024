@@ -39,3 +39,5 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
     ```bash
     pip install -r requirements.txt
     ```
+
+ 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
