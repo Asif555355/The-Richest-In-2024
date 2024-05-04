@@ -8,7 +8,9 @@ The aim of this project is to collect primary information about the billionaires
 
 3.It is  a bubble chart where the size of each bubble corresponds to the sum of net worth, and each bubble represents a different industry.
 
-4:
+4:Its a bar chart where each bars height indicates how many billionaires share the same rank.
+
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/md.asif.hossain7274/viz/bcountbasedonsources_17132951336870/Billionairesdata)
 ## Build from Sources
 
 1. **Clone the Repository**
